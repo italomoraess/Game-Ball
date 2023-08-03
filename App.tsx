@@ -19,7 +19,7 @@ export default function App() {
           <Text style={styles.controlText}>PosY: </Text>
         </View>
         <TouchableOpacity style={styles.controlBtn} onPress={handleForceBtn}>
-          <Text style={styles.controlText}>Fazer força</Text>
+          <Text style={styles.controlText}>Forçar</Text>
         </TouchableOpacity>
       </View>
     </View>
